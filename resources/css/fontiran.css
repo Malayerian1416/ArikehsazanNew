@@ -1,0 +1,39 @@
+﻿@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: normal;
+	src: url("../fonts/iranyekanwebregularfanum.eot");
+	src: url("../fonts/iranyekanwebregularfanum.eot?#iefix") format("embedded-opentype"),  /* IE6-8 */
+		 url("../fonts/iranyekanwebregularfanum.woff") format("font-woff"),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url("../fonts/iranyekanwebregularfanum.ttf") format("truetype");
+}
+
+@font-face {
+    src: url("../fonts/IRANSansWebFaNum.ttf");
+    font-family: iransansfont;
+    font-style: normal;
+}
+
+@font-face {
+    src: url("../fonts/IranNastaliq.ttf");
+    font-family: nastaliq;
+    font-style: normal;
+}
+
+@font-face {
+    src: url("../fonts/Sedaghat.woff2");
+    font-family: sedaghat;
+    font-style: normal;
+}
+@font-face {
+    font-family: mitra;
+    src: url("../fonts/BMitra.eot");
+    src: url("../fonts/BMitra.eot?#iefix") format("embedded-opentype"), url("../fonts/BMitra.woff") format("font-woff"), url("../fonts/BMitra.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal
+}
+@font-face {
+    font-family: lalehzar;
+    src: url("../fonts/Lalezar-Regular.ttf") format("truetype");
+    font-style: normal
+}
